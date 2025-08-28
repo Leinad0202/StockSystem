@@ -67,7 +67,9 @@ Create a GUI (Windows Forms/WPF/MAUI).
 
 This project is licensed under the MIT License.
 Feel free to use and modify it!
-
+<br>
+<br>
+<br>
 
 # Portuguese
 
