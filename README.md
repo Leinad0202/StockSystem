@@ -68,7 +68,9 @@ Create a GUI (Windows Forms/WPF/MAUI).
 This project is licensed under the MIT License.
 Feel free to use and modify it!
 
-
+.
+.
+.
 # Portuguese
 
 Um **sistema de gerenciamento de estoque** simples escrito em C# com **persistência em JSON**.  
