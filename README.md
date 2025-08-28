@@ -102,10 +102,10 @@ Este projeto foi criado para fins de aprendizado, com foco em:
 ## 📂 Estrutura do Projeto
 
 StockSystem/
-├── Program.cs        # Ponto de entrada principal
-├── Models/           # Contém Product.cs
-├── Services/         # Contém InventoryService.cs
-├── stock.json        # Arquivo de dados gerado após a primeira execução
+├── Program.cs # Main entry point
+├── Models/ # Contains Product.cs
+├── Services/ # Contains InventoryService.cs
+├── stock.json # Data file generated after first run
 └── README.md
 
 ---
@@ -113,14 +113,17 @@ StockSystem/
 ## ▶️ Como Executar
 
 1. Clone o repositório:
+   ```bash
    git clone git@github.com:Leinad0202/StockSystem.git
-
+   
 2. Navegue até a pasta do projeto:
+   ```bash
    cd StockSystem
-
+   
 3. Compile e execute:
+   ```bash
    dotnet run
-
+   
 ---
 
 ## 📖 Possíveis Melhorias Futuras
