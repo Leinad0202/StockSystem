@@ -1,0 +1,14 @@
+/home/daniel/RiderProjects/StockSystem/StockSystem/bin/Debug/net9.0/StockSystem
+/home/daniel/RiderProjects/StockSystem/StockSystem/bin/Debug/net9.0/StockSystem.deps.json
+/home/daniel/RiderProjects/StockSystem/StockSystem/bin/Debug/net9.0/StockSystem.runtimeconfig.json
+/home/daniel/RiderProjects/StockSystem/StockSystem/bin/Debug/net9.0/StockSystem.dll
+/home/daniel/RiderProjects/StockSystem/StockSystem/bin/Debug/net9.0/StockSystem.pdb
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.AssemblyInfoInputs.cache
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.AssemblyInfo.cs
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.csproj.CoreCompileInputs.cache
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.dll
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/refint/StockSystem.dll
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.pdb
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/StockSystem.genruntimeconfig.cache
+/home/daniel/RiderProjects/StockSystem/StockSystem/obj/Debug/net9.0/ref/StockSystem.dll

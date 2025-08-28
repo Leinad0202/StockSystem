@@ -1,0 +1,10 @@
+[
+  {
+    "Nome": "PlayStation 2",
+    "Categoria": {
+      "Nome": "Jogos"
+    },
+    "Quantidade": 4,
+    "Preco": 500
+  }
+]

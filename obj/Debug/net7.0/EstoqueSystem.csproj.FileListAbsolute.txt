@@ -1,0 +1,14 @@
+/home/daniel/RiderProjects/EstoqueSystem/bin/Debug/net7.0/EstoqueSystem
+/home/daniel/RiderProjects/EstoqueSystem/bin/Debug/net7.0/EstoqueSystem.deps.json
+/home/daniel/RiderProjects/EstoqueSystem/bin/Debug/net7.0/EstoqueSystem.runtimeconfig.json
+/home/daniel/RiderProjects/EstoqueSystem/bin/Debug/net7.0/EstoqueSystem.dll
+/home/daniel/RiderProjects/EstoqueSystem/bin/Debug/net7.0/EstoqueSystem.pdb
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.AssemblyInfoInputs.cache
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.AssemblyInfo.cs
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.csproj.CoreCompileInputs.cache
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.dll
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/refint/EstoqueSystem.dll
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.pdb
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/EstoqueSystem.genruntimeconfig.cache
+/home/daniel/RiderProjects/EstoqueSystem/obj/Debug/net7.0/ref/EstoqueSystem.dll
