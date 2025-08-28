@@ -67,3 +67,73 @@ Create a GUI (Windows Forms/WPF/MAUI).
 
 This project is licensed under the MIT License.
 Feel free to use and modify it!
+
+
+# Portuguese
+
+Um **sistema de gerenciamento de estoque** simples escrito em C# com **persistência em JSON**.  
+Este projeto foi criado para fins de aprendizado, com foco em:
+
+- Programação Orientada a Objetos (POO)
+- Persistência de dados usando JSON
+- Operações CRUD básicas (Criar, Ler, Atualizar, Deletar)
+- Interação via console
+
+---
+
+## 🚀 Funcionalidades
+
+- Adicionar novos produtos (com nome, quantidade, preço)
+- Listar todos os produtos
+- Atualizar quantidades no estoque
+- Remover produtos
+- Salvar e carregar dados automaticamente de um arquivo JSON
+
+---
+
+## 🛠️ Tecnologias
+
+- C# (.NET 6+)
+- System.Text.Json para serialização JSON
+- Aplicativo de Console
+
+---
+
+## 📂 Estrutura do Projeto
+
+StockSystem/
+├── Program.cs        # Ponto de entrada principal
+├── Models/           # Contém Product.cs
+├── Services/         # Contém InventoryService.cs
+├── stock.json        # Arquivo de dados gerado após a primeira execução
+└── README.md
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+   git clone git@github.com:Leinad0202/StockSystem.git
+
+2. Navegue até a pasta do projeto:
+   cd StockSystem
+
+3. Compile e execute:
+   dotnet run
+
+---
+
+## 📖 Possíveis Melhorias Futuras
+
+- Adicionar sistema de busca por nome ou ID do produto
+- Implementar categorias para os produtos
+- Adicionar testes unitários
+- Criar interface gráfica (Windows Forms/WPF/MAUI)
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a licença MIT.  
+Sinta-se à vontade para usar e modificar!";
+
